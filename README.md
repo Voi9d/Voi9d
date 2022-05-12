@@ -1,6 +1,6 @@
 ### Olá
 
-# Quem eu sou?
+## Quem eu sou?
 
 Sou Gabriel Broch Lago, tenho 16 anos, estudo no Colégio Tecnico Industrial de Santa Maria, cursando Informática do primeiro ano.
 Nasci em Santa Maria, no dia 03 de novembro de 2005.
