@@ -8,30 +8,28 @@ Nasci em Santa Maria, no dia 03 de novembro de 2005.
 
 ## Sobre mim 🤠
 
-Alguns anos atrás programei um pequeno bot para Discord, onde ele respondia mensagens pré-programadas.
-Eu sou o picasso (Desenhei um retrato de uma colega chamada Izabely), e todo mundo aplaudio e eu me senti especial..... Obrigado colegas <3.
-
-Cara, não sou muito interessante não vei, mas assim..... Eu tenho que falar algo pra terminar a parte 'Sobre mim'. Enfim, eu pratico esportes variados.... como: Futebol.
+Estou cursando Informática no CTISM, pratico esportes nos finais de semanas, leio livros e mangas quando estou com tempo livre.
+Na maioria do meu tempo livre jogos alguns games, o mais jogado é Valorant.
+Alguns anos atrás programei um pequeno bot para Discord, onde ele respondia mensagens pré-programadas, e poderia colocar musica.
 
 ## Quais são meus hobbies? 🥶 
 
--Profissional de Valorant (Ja cheguei em Radiante, então me sinto especial) 🎮
--Tentar programar alguns tipos de bots. 🤖
--Viajar ✈️
--Jogar esportes variados: Futebol ⚽
--Leio Mangas (Yes, I´m Otaku) 📚
+* Profissional de Valorant 🎮
+* Tentar programar alguns tipos de bots. 🤖
+* Viajar ✈️
+* Jogar esportes variados: Futebol ⚽
+* Leio Mangas  📚
 
 ## Redes Sociais
 
-Twitter: @G4briell4go
-Instagram: @g4briell4go
-Twitch: voidspacebr
+* Twitter: @G4briell4go
+* Instagram: @g4briell4go
+* Twitch: voidspacebr
 
 ## Como me contatar
 
 Para falar comigo, tens o meu Discord: VoidAppend#3659. 
-Ou então pelo WhatsApp: 55 996990---, o resto é um enigma.
 
 ## Fato Gamer
 
-Sabia que a Raze é brasileira e nasceu na bahia?
+A EA(Electronic Arts) perdeu os direitos do nome FIFA por se recusar a pagar 150 milhoes de dólares por ano, e apartir de 2023 o titulo da franquia FIFA será chamada: EA SPORTS FC.
