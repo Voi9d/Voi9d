@@ -35,5 +35,5 @@ Para falar comigo, tens o meu Discord: VoidAppend#3659.
 A EA(Electronic Arts) perdeu os direitos do nome FIFA por se recusar a pagar 150 milhoes de dólares por ano, e apartir de 2023 o titulo da franquia FIFA será chamada: EA SPORTS FC.
 
 
-![67e7c27d2a7c819cd699dbc403c72aaa](https://user-images.githubusercontent.com/104566529/169275961-35272236-86d5-4441-a76a-fbb625b2a28d.gif)
+![856684591899125d494d53bebc6d2f98](https://user-images.githubusercontent.com/104566529/169277079-3989f055-8468-4c6d-9acf-0e9d61327c3b.gif)
 
