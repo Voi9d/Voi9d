@@ -39,7 +39,7 @@ I was born in Santa Maria, on November 3, 2005.
 * Só ϙᴜᴀɴᴅᴏ ᴇʟᴀ ᴍᴇ ϙᴜᴇʀ
 * Tᴏxɪᴄ
 
-"The weak never forgive: forgiveness is one of the characteristics of the strong." - Mahatma Gandhi
+"I am always ready to learn although I do not always like being taught." - Winston S. Churchill
 
 
 
