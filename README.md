@@ -1,39 +1,41 @@
-### Olá
+### 𝕺𝖑á
 
-## Quem eu sou?
+![Gif Foda-se](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
 
 Sou Gabriel Broch Lago, tenho 16 anos, estudo no Colégio Tecnico Industrial de Santa Maria, cursando Informática do primeiro ano.
 Nasci em Santa Maria, no dia 03 de novembro de 2005.
 
 
-## Sobre mim 🤠
+### ℌ𝔬𝔟𝔟𝔦𝔢𝔰
 
-Estou cursando Informática no CTISM, pratico esportes nos finais de semanas, leio livros e mangas quando estou com tempo livre.
-Na maioria do meu tempo livre jogos alguns games, o mais jogado é Valorant.
-Alguns anos atrás programei um pequeno bot para Discord, onde ele respondia mensagens pré-programadas, e poderia colocar musica.
+## 𝕲𝖆𝖒𝖊𝖘
+* Dᴇᴀᴅ Bʏ Dᴀʏʟɪɢʜᴛ 	
+* Rᴏᴄᴋᴇᴛ Lᴇᴀɢᴜᴇ 	
+* Hɪᴛᴍᴀɴ
 
-## Quais são meus hobbies? 🥶 
+## 𝖘𝖙𝖔𝖗𝖞 𝖜𝖗𝖎𝖙𝖊𝖗
 
-* Profissional de Valorant 🎮
-* Tentar programar alguns tipos de bots. 🤖
-* Viajar ✈️
-* Jogar esportes variados: Futebol ⚽
-* Leio Mangas  📚
+𝙸 𝚊𝚖 𝚊 𝚠𝚛𝚒𝚝𝚎𝚛 𝚘𝚏 𝚁𝙿𝙶 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝙸 𝚑𝚊𝚟𝚎 𝚋𝚋𝚎𝚗 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝙶𝙼𝚒𝚗𝚐 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟷𝟻, 𝚊𝚗𝚍 𝚒 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚙𝚕𝚊𝚢𝚎𝚛 𝚒𝚗 𝟸𝟶𝟷𝟾. 𝚂𝚒𝚗𝚌𝚎 𝚒 𝚠𝚊𝚜 𝚕𝚒𝚝𝚝𝚕𝚎 𝚒 𝚊𝚕𝚠𝚊𝚢𝚜 𝚕𝚒𝚔𝚎𝚍 𝚝𝚘 𝚛𝚎𝚊𝚍 𝚊𝚗𝚍 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚜𝚝𝚘𝚛𝚒𝚎𝚜. 𝚄𝚗𝚝𝚒𝚕 𝟸𝟶𝟷𝟻 𝚒 𝚛𝚎𝚌𝚎𝚒𝚟𝚎𝚍 𝚊 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔, 𝚊𝚗𝚍 𝚝𝚑𝚊𝚝´𝚜 𝚠𝚑𝚎𝚗 𝚒 𝚛𝚎𝚊𝚕𝚕𝚢 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚝𝚘𝚛𝚒𝚎𝚜. 𝙰𝚗𝚍 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚍𝚊𝚢 𝚒 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚎 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎.
 
-## Redes Sociais
+## 𝕳𝖔𝖜 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊
 
-* Twitter: @G4briell4go
-* Instagram: @g4briell4go
-* Twitch: voidspacebr
+* ᴅɪsᴄᴏʀᴅ: ᴠᴏɪᴅᴀᴘᴘᴇɴᴅ#𝟹𝟼𝟻𝟿  
+* ᴛᴡɪᴛᴛᴇʀ: @ɢ𝟺ʙʀɪᴇʟʟ𝟺ɢᴏ 
+* ɪɴsᴛᴀɢʀᴀᴍ: @ɢ𝟺ʙʀɪᴇʟʟ𝟺ɢᴏ
 
-## Como me contatar
+## 𝕱𝖆𝖛𝖔𝖗𝖎𝖙𝖊 𝕸𝖆𝖓𝖌𝖆𝖘
 
-Para falar comigo, tens o meu Discord: VoidAppend#3659. 
+* Tᴏᴋʏᴏ Rᴇᴠᴇɴɢᴇʀꜱ
+* Sᴘʏ x Fᴀᴍɪʟʏ
+* Iᴊɪʀᴀɴᴀɪᴅᴇ, Nᴀɢᴀᴛᴏʀᴏ-ꜱᴀɴ
 
-## Fato Gamer
+## 𝕸𝖚𝖘𝖎𝖈
 
-A EA(Electronic Arts) perdeu os direitos do nome FIFA por se recusar a pagar 150 milhoes de dólares por ano, e apartir de 2023 o titulo da franquia FIFA será chamada: EA SPORTS FC.
+* Vᴇᴍ ᴄá
+* Só ϙᴜᴀɴᴅᴏ ᴇʟᴀ ᴍᴇ ϙᴜᴇʀ
+* Tᴏxɪᴄ
+
+"The weak never forgive: forgiveness is one of the characteristics of the strong." - Mahatma Gandhi
 
 
-![856684591899125d494d53bebc6d2f98](https://user-images.githubusercontent.com/104566529/169277079-3989f055-8468-4c6d-9acf-0e9d61327c3b.gif)
 
