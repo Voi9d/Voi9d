@@ -1,5 +1,3 @@
-### 𝕺𝖑á
-
 ![Gif Foda-se](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
 
 I'm Gabriel Broch Lago, I'm 16 years old, I study at Colégio Tecnico Industrial de Santa Maria, studying Computer Science in the first year.
