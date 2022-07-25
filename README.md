@@ -2,8 +2,13 @@
 
 ![Gif Foda-se](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
 
-Sou Gabriel Broch Lago, tenho 16 anos, estudo no Colégio Tecnico Industrial de Santa Maria, cursando Informática do primeiro ano.
-Nasci em Santa Maria, no dia 03 de novembro de 2005.
+I'm Gabriel Broch Lago, I'm 16 years old, I study at Colégio Tecnico Industrial de Santa Maria, studying Computer Science in the first year.
+I was born in Santa Maria, on November 3, 2005.
+
+<div align="left">
+  <a href="https://github.com/Voi9d">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Voi9d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
 
 ### ℌ𝔬𝔟𝔟𝔦𝔢𝔰
@@ -25,6 +30,7 @@ Nasci em Santa Maria, no dia 03 de novembro de 2005.
 
 ## 𝕱𝖆𝖛𝖔𝖗𝖎𝖙𝖊 𝕸𝖆𝖓𝖌𝖆𝖘
 
+* my dress up darling
 * Tᴏᴋʏᴏ Rᴇᴠᴇɴɢᴇʀꜱ
 * Sᴘʏ x Fᴀᴍɪʟʏ
 * Iᴊɪʀᴀɴᴀɪᴅᴇ, Nᴀɢᴀᴛᴏʀᴏ-ꜱᴀɴ
