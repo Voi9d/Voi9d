@@ -11,7 +11,7 @@ My name is Gabriel, I was born in Santa Maria - RS and I'm studying computing in
 
 <div align="left">
   <a href="https://github.com/Voi9d">
-  <img height="200em" src="!(https://github-readme-stats.vercel.app/api?Voi9d=anuraghazra&show_icons=true&theme=transparent)"/>
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Voi9d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 </div>
 
 ***
