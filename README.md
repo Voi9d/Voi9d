@@ -1,6 +1,6 @@
 # HEY👋
 
-<img align="center" alt="gif" height="350" style="border-radius:5px;" src="[(https://thumbs.gfycat.com/AbandonedWelldocumentedJackal-size_restricted.gif)](https://www.google.com/url?sa=i&url=https%3A%2F%2Fgfycat.com%2Fgifs%2Fsearch%2Fwallpaper%2Bengine%2Banime&psig=AOvVaw0LSxq52D6csJrKzW9xWnYb&ust=1685794659433000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCLCBufDIpP8CFQAAAAAdAAAAABAD)">
+![texto][<img align="center" alt="gif" height="350" style="border-radius:5px;" src="">](https://thumbs.gfycat.com/AbandonedWelldocumentedJackal-size_restricted.gif)
 
 
 ## **About Me**
