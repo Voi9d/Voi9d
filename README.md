@@ -1,45 +1,73 @@
-![Gif Foda-se](https://media4.giphy.com/media/RMwgs5kZqkRyhF24KK/giphy.gif)
+# 👋Olá seja bem vindo ao meu git hub
+![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
-I'm Gabriel Broch Lago, I'm 16 years old, I study at Colégio Tecnico Industrial de Santa Maria, studying Computer Science in the first year.
-I was born in Santa Maria, on November 3, 2005.
+# Sobre mim
+Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
 
-<div align="left">
-  <a href="https://github.com/Voi9d">
-  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Voi9d&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-</div>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
 
 
-### ℌ𝔬𝔟𝔟𝔦𝔢𝔰
 
-## 𝕲𝖆𝖒𝖊𝖘
-* Dᴇᴀᴅ Bʏ Dᴀʏʟɪɢʜᴛ 	
-* Rᴏᴄᴋᴇᴛ Lᴇᴀɢᴜᴇ 	
-* Hɪᴛᴍᴀɴ
+# Meus hobbies
+- 🎮jogar vídeo game
+- 📺assistir séries e filmes
+- 🎞Assistir animes
+- 🎵ouvir música
+- 💪fazer atividade física
 
-## 𝖘𝖙𝖔𝖗𝖞 𝖜𝖗𝖎𝖙𝖊𝖗
+## Meus favoritos
 
-𝙸 𝚊𝚖 𝚊 𝚠𝚛𝚒𝚝𝚎𝚛 𝚘𝚏 𝚁𝙿𝙶 𝚜𝚝𝚘𝚛𝚒𝚎𝚜, 𝙸 𝚑𝚊𝚟𝚎 𝚋𝚋𝚎𝚗 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚊𝚗𝚍 𝙶𝙼𝚒𝚗𝚐 𝚜𝚒𝚗𝚌𝚎 𝟸𝟶𝟷𝟻, 𝚊𝚗𝚍 𝚒 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚙𝚕𝚊𝚢𝚒𝚗𝚐 𝚊𝚜 𝚊 𝚙𝚕𝚊𝚢𝚎𝚛 𝚒𝚗 𝟸𝟶𝟷𝟾. 𝚂𝚒𝚗𝚌𝚎 𝚒 𝚠𝚊𝚜 𝚕𝚒𝚝𝚝𝚕𝚎 𝚒 𝚊𝚕𝚠𝚊𝚢𝚜 𝚕𝚒𝚔𝚎𝚍 𝚝𝚘 𝚛𝚎𝚊𝚍 𝚊𝚗𝚍 𝚎𝚜𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎 𝚜𝚝𝚘𝚛𝚒𝚎𝚜. 𝚄𝚗𝚝𝚒𝚕 𝟸𝟶𝟷𝟻 𝚒 𝚛𝚎𝚌𝚎𝚒𝚟𝚎𝚍 𝚊 𝚗𝚘𝚝𝚎𝚋𝚘𝚘𝚔, 𝚊𝚗𝚍 𝚝𝚑𝚊𝚝´𝚜 𝚠𝚑𝚎𝚗 𝚒 𝚛𝚎𝚊𝚕𝚕𝚢 𝚜𝚝𝚊𝚛𝚝𝚎𝚍 𝚠𝚛𝚒𝚝𝚒𝚗𝚐 𝚜𝚝𝚘𝚛𝚒𝚎𝚜. 𝙰𝚗𝚍 𝚝𝚘 𝚝𝚑𝚒𝚜 𝚍𝚊𝚢 𝚒 𝚌𝚘𝚗𝚝𝚒𝚗𝚞𝚎 𝚝𝚘 𝚠𝚛𝚒𝚝𝚎.
+### Animes
+- Death Note
+- Dororo
+- One piece
+- attaque of titan
 
-## 𝕳𝖔𝖜 𝖙𝖔 𝖈𝖔𝖓𝖙𝖆𝖈𝖙 𝖒𝖊
+### séries
+- Peaky Blinders
+- Desencantamento
+- Ragnarök
 
-* ᴅɪsᴄᴏʀᴅ: ᴠᴏɪᴅᴀᴘᴘᴇɴᴅ#𝟹𝟼𝟻𝟿  
-* ᴛᴡɪᴛᴛᴇʀ: @ɢ𝟺ʙʀɪᴇʟʟ𝟺ɢᴏ 
-* ɪɴsᴛᴀɢʀᴀᴍ: @ɢ𝟺ʙʀɪᴇʟʟ𝟺ɢᴏ
+### Jogos
+- CS:GO
+- battlefield 4
+- battlefield 3
+- GTAV
+- DayZ
+- COD Warzone
 
-## 𝕱𝖆𝖛𝖔𝖗𝖎𝖙𝖊 𝕸𝖆𝖓𝖌𝖆𝖘
 
-* ᴍʏ ᴅʀᴇꜱꜱ ᴜᴘ ᴅᴀʀʟɪɴɢ
-* Tᴏᴋʏᴏ Rᴇᴠᴇɴɢᴇʀꜱ
-* Sᴘʏ x Fᴀᴍɪʟʏ
-* Iᴊɪʀᴀɴᴀɪᴅᴇ, Nᴀɢᴀᴛᴏʀᴏ-ꜱᴀɴ
+# atualmente estou estudando
+- HTML CSS JavaScript
+- PHP
+- Python
+- C++
+- C
 
-## 𝕸𝖚𝖘𝖎𝖈
+# Linguagens utilizadas
+- HTML CSS JavaScript
+- PHP
+- Python
+- C++
+- C
 
-* Vᴇᴍ ᴄá
-* Só ϙᴜᴀɴᴅᴏ ᴇʟᴀ ᴍᴇ ϙᴜᴇʀ
-* Tᴏxɪᴄ
 
-"I am always ready to learn although I do not always like being taught." - Winston S. Churchill
+# Contato
+
+<a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+
+ [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohhott/)
+
+ [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199077291732/)
+
+
+ [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+
+
+
+
 
 
 
