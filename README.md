@@ -1,5 +1,5 @@
 # 👋Olá seja bem vindo ao meu git hub
-![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
+![texto](https://i.pinimg.com/originals/2a/ba/4b/2aba4b0447801118585b5efa8710ec57.gif)
 
 # Sobre mim
 Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
