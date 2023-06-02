@@ -1,69 +1,73 @@
-# 👋Olá seja bem vindo ao meu git hub
-![texto](https://thumbs.gfycat.com/AbandonedWelldocumentedJackal-size_restricted.gif)
+# HEY👋
 
-# Sobre mim
-Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
+<img align="center" alt="gifzin" height="350" style="border-radius:5px;" src="[https://i.imgur.com/2CGv2Tz.gif](https://thumbs.gfycat.com/AbandonedWelldocumentedJackal-size_restricted.gif)">
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=pedrohoppe88&show_icons=true&theme=radical)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pedrohoppe88&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+## **About Me**
 
 
 
-# Meus hobbies
-- 🎮jogar vídeo game
-- 📺assistir séries e filmes
-- 🎞Assistir animes
-- 🎵ouvir música
-- 💪fazer atividade física
+My name is Gabriel, I born in Santa Maria - RS and I'm studying computing in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
-## Meus favoritos
+<div align="left">
+  <a href="https://github.com/Di889">
+  <img height="200em" src="https://github-readme-stats.vercel.app/api?username=Di889&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+</div>
 
-### Animes
-- Death Note
-- Dororo
-- One piece
-- attaque of titan
+***
 
-### séries
-- Peaky Blinders
-- Desencantamento
-- Ragnarök
+## My Hobbies Are
+- 💻 Browse in the Computer
+- 🎮 Play Videogames
+- 🎞 Watch Animes
+- 🎬 Watch Films and Series
+- 🎵 Listen Music
 
-### Jogos
-- CS:GO
-- battlefield 4
-- battlefield 3
-- GTAV
-- DayZ
-- COD Warzone
+## Just to make it clear
 
-
-# atualmente estou estudando
-- HTML CSS JavaScript
-- PHP
-- Python
-- C++
-- C
-
-# Linguagens utilizadas
-- HTML CSS JavaScript
-- PHP
-- Python
-- C++
-- C
+### My favourites 
+- **Anime Are**
+   - Charlotte
+   - Kimetsu no Yaiba
+   - Fullmetal Alchemist
+- **Games Are**
+   - CS:GO
+   - Dead By Daylight
+   - GTA V
+- **Films and Series Are**
+   - Stranger Things
+   - Inglourious Basterds
+   - Hacksaw Ridge
+- **Musics Are**
+   - The Search
+   - Do I Wanna Know?
+   - Red Right Hand
 
 
-# Contato
+### I'm studying this programming languages 
+- 👨🏻‍💻 C
 
-<a href = "mailto:pedrohenriquehoppe6@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+### I'm pretend learn This programming languages
+- ⌨️ Java
+- 🖥 C++
+- 📟 C#
 
- [![instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/pedrohhott/)
+### Profissional Aspirations
+- 💼 I intend graduate in the Law Course, but i like a lot Computation also
+then possibly I try something in the Computing Area.
 
- [![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge&logo=steam&logoColor=white)](https://steamcommunity.com/profiles/76561199077291732/)
+***
+ 
+### You can Reach me through
+<a href = "mailto:diogenes.steca@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+<a href = "https://mobile.twitter.com/DiogenesPotrich"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
+***
+> "Success is not final, failure is not fatal: It is the courage to continue that counts." — Winston S. Churchill
 
+***
+[![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
+[![made-with-HTML](https://img.shields.io/badge/Made%20with-HTML-ff9900.svg)](https://html.com/about/)
 
- [![made-with-Markdown](https://img.shields.io/badge/Made%20with-Markdown-1f425f.svg)](http://commonmark.org)
 
 
 
