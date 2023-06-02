@@ -1,5 +1,5 @@
 # 👋Olá seja bem vindo ao meu git hub
-![texto](https://i.pinimg.com/originals/2a/ba/4b/2aba4b0447801118585b5efa8710ec57.gif)
+![texto](https://www.google.com/url?sa=i&url=https%3A%2F%2Fbr.pinterest.com%2Fpin%2Fordem-paranormal-enigma-do-medo-catarse--640707484488862204%2F&psig=AOvVaw19rtprAp_pEeylq1LjFwR_&ust=1685794519484000&source=images&cd=vfe&ved=0CA4QjRxqFwoTCMia_azIpP8CFQAAAAAdAAAAABBc)
 
 # Sobre mim
 Sou aluno da escola CTISM - Colégio Técnico Industrial de Santa Maria, inscrito no curso de informática para a internet
