@@ -1,6 +1,6 @@
 # HEY👋
 
-![texto][<img align="center" alt="gif" height="350" style="border-radius:5px;" src="">](https://thumbs.gfycat.com/AbandonedWelldocumentedJackal-size_restricted.gif)
+![texto](https://i.pinimg.com/originals/38/4c/4e/384c4ef16e888690c77bc068b39b1840.gif)
 
 
 ## **About Me**
