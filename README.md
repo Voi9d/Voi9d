@@ -7,7 +7,7 @@
 
 
 
-My name is Gabriel e eu sou um bostalhudo de bosta e eu faço boquete para vários homens, I was born in Nigeria - Africa and I'm studying computária in [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
+ [CTISM](https://www.ufsm.br/unidades-universitarias/ctism/) 
 
 <div align="left">
   <a href="https://github.com/Voi9d">
