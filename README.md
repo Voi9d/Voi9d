@@ -46,9 +46,6 @@
 - 💻 Java
 - 👨🏻‍💻 C++
 - 💻 PHP
-- - Xanascript
-- cuxarp
-- Ty
 
 ### I'm pretend learn This programming languages
 - ⌨️ Python
